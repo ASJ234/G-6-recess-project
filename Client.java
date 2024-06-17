@@ -7,6 +7,8 @@ public class Client {
     String hostname;
     int port;
 
+    //The constructor of the Client Class
+
     public Client(String hostname, int port) {
         this.hostname = hostname;
         this.port = port;
